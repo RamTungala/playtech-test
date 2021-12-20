@@ -1,0 +1,7 @@
+session_*.csv
+game_*.csv
+top5_*.csv
+/.idea/
+/.gradle/
+/build/
+/bin/
