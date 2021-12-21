@@ -19,5 +19,5 @@ To run application locally: Run `PlayTechApplication.java` file which has main m
 To run tests(Unit and Integration test), use:
     `./gradlew clean test`
 
-
-
+**IDE Used**
+   `IntelliJ IDEA`
